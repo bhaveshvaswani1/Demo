@@ -1,0 +1,31 @@
+.card{
+    max-width: 110vh;
+    background-color: #31383f;
+    display: flex;
+    margin: auto;
+    margin-top: 60px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.form-group input {
+    width: 200px;
+}
+.input-box{
+    width: 200px;
+    padding: 5px;
+}
+.grp{
+    display: flex;
+    padding: 50px;
+}
+.grp1{
+    margin: auto;
+}
+.grp2{
+    margin: auto;
+}
+.btn{
+    display: block;
+    margin:auto;
+}

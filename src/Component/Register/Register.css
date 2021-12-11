@@ -1,0 +1,27 @@
+.register-form{
+    padding: 40px;
+    height: 50vh;
+    width: 40%;
+    display: block;
+    margin: 100px auto;
+    background: #393e46;
+    color: white;
+}
+.form{
+   text-align: center;
+}
+.form input{
+    display: block;
+    margin: auto;
+    width: 80%;
+    font-size: 18px;
+}
+
+.btn{
+    font-size: 16px;
+}
+.alt{
+    color: white;
+    display: block;
+    margin-top: 10px;
+}
